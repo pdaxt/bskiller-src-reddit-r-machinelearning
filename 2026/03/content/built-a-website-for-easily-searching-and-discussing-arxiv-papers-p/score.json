@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 4.0,
   "bs_rating": "Mostly Credible",
-  "scored_at": "2026-03-25T13:30:57.850713+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:14:43Z",
+  "scoring_method": "heuristic",
+  "career_angle": "If you work with research papers regularly, tools like Discuria or Semantic Scholar's API can speed up literature reviews. Building similar niche developer tools is a solid portfolio play -- small, useful, demonstrable.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Random Reddit user with no established credibility, but r/MachineLearning is a legitimate community and [P] tag correctly marks it as a project post."
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Live product at discuria.org that anyone can verify. No inflated metrics or unsubstantiated claims -- just 'I built this, try it.'"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "The tool is publicly accessible and its claims (search, annotations, comments, read-aloud) are trivially verifiable by visiting the site."
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Self-promotion post -- the creator is marketing their own product. 'All features are free' softens it but the intent is clearly user acquisition."
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "ArXiv search tools are a crowded space (Semantic Scholar, Connected Papers, Papers With Code). No evidence this adds meaningful differentiation beyond bundling existing features."
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Concrete feature list (annotations, AI assistant, read-aloud, multi-database coverage) rather than vague promises. The 'AI assistant' claim is unspecified but everything else is concrete."
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Unknown developer, no prior track record visible. Not a red flag for a side project, but no trust signal either."
+    }
+  ]
 }
