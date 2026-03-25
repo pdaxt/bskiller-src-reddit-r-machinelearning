@@ -1,0 +1,12 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "story_id": "d3cead5f-8a14-41d6-b580-67bcd89f0f9f",
+  "title": "[D] Seeking feedback: Safe autonomous agents for enterprise systems",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1rziq9q/d_seeking_feedback_safe_autonomous_agents_for/",
+  "bs_score": 4.8,
+  "bs_rating": "Mostly Credible",
+  "category": "community",
+  "summary": "Sound safety architecture with zero quantitative validation—claims \"significantly fewer unsafe actions\" without showing a single number or benchmark. Self-promotion disguised as community feedback-seeking, which is honest but still self-promotion.",
+  "editorial_comment": "",
+  "scored_at": "2026-03-25T10:33:47.742395+00:00"
+}
