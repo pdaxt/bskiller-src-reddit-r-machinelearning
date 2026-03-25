@@ -1,0 +1,7 @@
+# [D] Scale AI ML Research Engineer Interview
+
+Source: [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1rym21x/d_scale_ai_ml_research_engineer_interview/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>Hi! I&#39;m preparing for the first round <strong>ML coding round</strong> for the <strong>ML Research Engineer role at Scale</strong>, but I&#39;m pretty confused about what to expect.</p> <p>Is it GitHub Codespaces(debugging) or HackerRank(implementation)</p> <p>Does anyone know the actual structure? Will it be data parsing/ transformations, or is it more focused on ML concepts, LLMs, and debugging?</p> <p>My prep so far:</p> <ul> <li>Transformers &amp; LLMs, implementation from scratch/ debugging</li> <li>Basic data pipeline pre processing</li> </ul> <p>If anyone has gone through Scale&#39;s ML research engineer loop, any insights would be really helpful!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BagAway2723"> /u/BagAway2723 </a> <br/> <span><a href="https://www.reddit.com/r/MachineLearning/comments/1rym21x/d_scale_ai_ml_research_engineer_interview/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/MachineLearning/comments/1rym21x/d_scale_ai_ml_research_engineer_interview/">[comments]</a></span>
