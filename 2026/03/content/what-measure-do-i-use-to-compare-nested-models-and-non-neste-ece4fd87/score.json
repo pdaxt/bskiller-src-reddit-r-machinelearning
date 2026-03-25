@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 3.0,
+  "bs_rating": "Mostly Credible",
+  "career_angle": "If you're in ML, knowing model comparison basics (likelihood ratio tests for nested, AIC/BIC or Vuong test for non-nested) is table stakes. Learn it now or get caught faking it later.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 4.0,
+      "rationale": "Self-identified bachelor student with no demonstrated expertise, but the question itself is grounded in real statistical methodology"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 7.0,
+      "rationale": "No claims being made -- it's a question, not an assertion. Nothing to fact-check."
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 7.0,
+      "rationale": "The underlying statistical methods (C-index, log-rank, AIC, cross-validated concordance) are well-established and reproducible"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 9.0,
+      "rationale": "Zero commercial interest. A student genuinely trying to learn."
+    },
+    {
+      "dimension": "consensus",
+      "score": 8.0,
+      "rationale": "Model comparison methodology in survival analysis is well-studied with clear consensus answers available in any biostatistics textbook"
+    },
+    {
+      "dimension": "specificity",
+      "score": 5.0,
+      "rationale": "Vague question -- doesn't specify which models, what data, or what 'high dimensional' means in their context. Classic undergrad energy."
+    },
+    {
+      "dimension": "track_record",
+      "score": 5.0,
+      "rationale": "Unknown Reddit user, no post history context, but the question is earnest and not misleading"
+    }
+  ]
+}
