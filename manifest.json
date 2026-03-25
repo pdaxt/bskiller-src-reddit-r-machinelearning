@@ -1,13 +1,6 @@
 {
-  "version": "1.0",
-  "source_name": "Reddit R Machinelearning",
+  "source_name": "Reddit r/MachineLearning",
   "repo": "bskiller-src-reddit-r-machinelearning",
-  "story_count": 61,
-  "last_updated": "2026-03-25T08:58:19Z",
-  "months": [
-    {
-      "month": "2026-03",
-      "story_count": 61
-    }
-  ]
+  "story_count": 8,
+  "last_updated": "2026-03-25T10:38:52.734592+00:00"
 }
