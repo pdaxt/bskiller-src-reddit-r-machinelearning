@@ -1,0 +1,7 @@
+# [R] Seeing arxiv endorser (eess.IV or cs.CV) CT lung nodule AI validation preprint
+
+Source: [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1rztzib/r_seeing_arxiv_endorser_eessiv_or_cscv_ct_lung/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>Sorry, I know these requests can be annoying, but I’m a medical physicist and no one I know uses arXiv.</p> <p>The preprint: post-deployment sensitivity analysis of a MONAI RetinaNet lung nodule detector using physics-guided acquisition parameter perturbation (LIDC-IDRI dataset, LUNA16 weights).</p> <p>Key finding: 5mm slice thickness causes a 42% relative sensitivity drop vs baseline; dose reduction at 25-50% produces only ~4pp loss. Threshold sensitivity analysis confirms the result holds across confidence thresholds from 0.1–0.9.</p> <p>Looking for an endorser in eess.IV or cs.CV. Takes 30 seconds. Happy to share the paper.</p> <p>Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/californiaburritoman"> /u/californiaburritoman </a> <br/> <span><a href="https://www.reddit.com/r/MachineLearning/comments/1rztzib/r_seeing_arxiv_endorser_eessiv_or_cscv_ct_lung/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/MachineLearning/comments/1rztzib/r_seeing_arxiv_endorser_eessiv_or_cscv_ct_lung/">[comments]</a></span>
