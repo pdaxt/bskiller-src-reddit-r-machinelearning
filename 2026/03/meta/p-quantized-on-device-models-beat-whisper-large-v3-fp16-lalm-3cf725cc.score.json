@@ -1,0 +1,12 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "story_id": "3cf725cc-6feb-4dc3-8bb3-e77c63ab2309",
+  "title": "[P] Quantized on-device models beat Whisper Large v3 (FP16)  -  LALM vs transducer, 15k inference tests, fully reproducible",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1rz94na/p_quantized_ondevice_models_beat_whisper_large_v3/",
+  "bs_score": 5.1,
+  "bs_rating": "Mixed Signals",
+  "category": "community",
+  "summary": "",
+  "editorial_comment": "",
+  "scored_at": "2026-03-25T10:33:50.280224+00:00"
+}
