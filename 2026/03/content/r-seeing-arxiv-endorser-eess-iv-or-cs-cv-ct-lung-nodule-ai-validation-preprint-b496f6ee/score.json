@@ -1,0 +1,46 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 2.5,
+  "bs_rating": "Verified",
+  "scored_at": "2026-03-22 00:41:04",
+  "scoring_method": "ai",
+  "summary": "Medical physicist doing exactly the kind of post-deployment validation work the AI-in-healthcare space desperately needs. Finding that slice thickness tanks lung nodule detection by 42% is the unglamorous truth that vendor pitch decks conveniently omit.",
+  "career_angle": "If you're in medical AI or radiology informatics, this is the type of acquisition-parameter sensitivity work that differentiates serious clinical AI engineers from model-zoo tourists. Understanding how scanner settings break deployed models is a rare and bankable skill.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "score": 8.0,
+      "rationale": "Medical physicist with domain expertise publishing validation research, not a startup founder hyping vaporware"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 7.5,
+      "rationale": "Specific dataset (LIDC-IDRI), established weights (LUNA16), quantified sensitivity drops with confidence threshold sweep from 0.1-0.9"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 8.0,
+      "rationale": "MONAI framework is open-source, LIDC-IDRI is public, LUNA16 weights are available -- anyone can replicate"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 9.0,
+      "rationale": "Academic researcher seeking arXiv endorsement, no product to sell, no funding announcement, findings actually highlight AI failures"
+    },
+    {
+      "dimension": "consensus",
+      "score": 6.5,
+      "rationale": "Preprint not yet peer-reviewed or endorsed, but the finding that acquisition parameters degrade AI performance aligns with known robustness literature"
+    },
+    {
+      "dimension": "specificity",
+      "score": 9.0,
+      "rationale": "42% relative sensitivity drop at 5mm slice thickness, ~4pp loss at 25-50% dose reduction, threshold sweep 0.1-0.9 -- unusually precise for a Reddit post"
+    },
+    {
+      "dimension": "track_record",
+      "score": 6.0,
+      "rationale": "Unknown publication history for this author, but medical physics background and technical depth suggest legitimate researcher, not clout farmer"
+    }
+  ]
+}
