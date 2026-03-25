@@ -1,0 +1,17 @@
+{
+  "id": "310dab5f-5045-40ca-8735-d35c0ae60d0f",
+  "title": "Medical AI gets 66% worse when you use automated labels for training, and the benchmark hides it! [R][P]",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1rz748k/medical_ai_gets_66_worse_when_you_use_automated/",
+  "source_name": "Reddit r/MachineLearning",
+  "published_at": "2026-03-20T20:20:09+00:00",
+  "scraped_at": "2026-03-21 02:48:45",
+  "bs_score": 6.1,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Legitimate research from a peer-reviewed venue (ISBI 2026) with publicly accessible arXiv paper, but the Reddit summary may oversimplify the findings. The core claims about automated label bias and age-related performance gaps align with established ML fairness research, making this low-BS but with typical Reddit headline inflation.",
+  "approved": true,
+  "author_name": null
+}
