@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 7.3,
   "bs_rating": "High BS",
-  "scored_at": "2026-03-25T14:13:36.099428+00:00",
-  "flagged_for_debate": true
+  "scored_at": "2026-03-25T14:20:46Z",
+  "scoring_method": "heuristic",
+  "career_angle": "AI regulation creates compliance jobs and reshapes which companies can operate where. Understanding policy gives you strategic career advantage.",
+  "flagged_for_debate": true,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 3.0,
+      "weight": 0.15,
+      "rationale": "Reddit r/MachineLearning classified as tier_4 (lower-tier or promotional source, reliability: 40%); 5 source links cited"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 2.0,
+      "weight": 0.2,
+      "rationale": "high citation density (65.8/1k words)"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 1.5,
+      "weight": 0.15,
+      "rationale": "no code, methodology, or reproducibility details provided"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 2.5,
+      "weight": 0.15,
+      "rationale": "sponsored/promotional content signals"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 4.5,
+      "weight": 0.15,
+      "rationale": "5 references cited"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 4.0,
+      "weight": 0.1,
+      "rationale": "no vague hedging language detected; contains specific numbers/data"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 1.5,
+      "weight": 0.1,
+      "rationale": "Reddit r/MachineLearning: limited or inconsistent track record; 1 red flags detected (track record penalty: -1)"
+    }
+  ]
 }
