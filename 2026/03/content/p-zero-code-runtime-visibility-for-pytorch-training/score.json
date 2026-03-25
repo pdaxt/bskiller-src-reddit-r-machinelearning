@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 6.1,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-25T14:13:30.276720+00:00",
-  "flagged_for_debate": true
+  "scored_at": "2026-03-25T14:20:42Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Open-source contributions build career capital. Star promising repos early, contribute to ones in your domain, and build your GitHub profile.",
+  "flagged_for_debate": true,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 3.0,
+      "weight": 0.15,
+      "rationale": "Reddit r/MachineLearning classified as tier_4 (lower-tier or promotional source, reliability: 40%); 9 source links cited"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 3.0,
+      "weight": 0.2,
+      "rationale": "weak credibility signals (1.5); high citation density (75.0/1k words)"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "open source / code available"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "no overt promotional language in this Reddit r/MachineLearning piece, independence unconfirmed"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 5.5,
+      "weight": 0.15,
+      "rationale": "9 references cited -- broad sourcing"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 4.0,
+      "weight": 0.1,
+      "rationale": "no vague hedging language detected; contains specific numbers/data"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 2.5,
+      "weight": 0.1,
+      "rationale": "Reddit r/MachineLearning: limited or inconsistent track record; 1 red flags detected (track record penalty: -1); 2 green flags detected (+1.0)"
+    }
+  ]
 }
