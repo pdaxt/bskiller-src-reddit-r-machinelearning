@@ -1,0 +1,57 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.7,
+  "bs_rating": "Mixed Evidence",
+  "career_angle": "Consider how this development might affect your role. The skills that matter are shifting - make sure yours are shifting with them.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "'[D] Decoding backchannel info: Is a PI being \"aggressive ...' -- Reddit r/MachineLearning is lower-tier or promotional source (tier_4, reliability: 40%)",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "references academic work",
+      "score": 4.5,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "'[D] Decoding backchannel info: Is a PI being \"aggressive ...' -- no code, methodology, or reproducibility details provided",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "'[D] Decoding backchannel info: Is a PI being \"aggressive ...' -- no overt promotional language from Reddit r/MachineLearning, but independence not confirmed",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "'[D] Decoding backchannel info: Is a PI being \"aggressive ...' -- not cross-referenced against external expert consensus",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "'[D] Decoding backchannel info: Is a PI being \"aggressive ...' -- no specific or falsifiable claims identified",
+      "score": 4.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Reddit r/MachineLearning -- limited or inconsistent track record",
+      "score": 3.5,
+      "weight": 0.1
+    }
+  ]
+}
