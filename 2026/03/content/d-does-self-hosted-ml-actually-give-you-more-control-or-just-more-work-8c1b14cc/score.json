@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.9,
+  "bs_rating": "Mixed Evidence",
+  "scored_at": "2026-03-24 04:14:05",
+  "scoring_method": "heuristic",
+  "summary": "",
+  "career_angle": "Consider how this development might affect your role. The skills that matter are shifting - make sure yours are shifting with them.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "'[D] Does self-hosted ML actually give you more control, o...' -- Reddit r/MachineLearning is lower-tier or promotional source (tier_4, reliability: 40%)",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "'[D] Does self-hosted ML actually give you more control, o...' -- no benchmarks, datasets, or citations found to support claims",
+      "score": 3.0,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "'[D] Does self-hosted ML actually give you more control, o...' -- no code, methodology, or reproducibility details provided",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "'[D] Does self-hosted ML actually give you more control, o...' -- no overt promotional language from Reddit r/MachineLearning, but independence not confirmed",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "'[D] Does self-hosted ML actually give you more control, o...' -- not cross-referenced against external expert consensus",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "'[D] Does self-hosted ML actually give you more control, o...' -- no specific or falsifiable claims identified",
+      "score": 5.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Reddit r/MachineLearning -- limited or inconsistent track record",
+      "score": 3.5,
+      "weight": 0.1
+    }
+  ]
+}
