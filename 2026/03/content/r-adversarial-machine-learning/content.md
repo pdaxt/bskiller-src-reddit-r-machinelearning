@@ -1,0 +1,7 @@
+# [R] Adversarial Machine Learning
+
+Source: [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1s36bxr/r_adversarial_machine_learning/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>Adversarial Machine Learning</p> <p>Hy guys, i&#39;m new in this field since my background is math (Bachelor and Master). I&#39;ve started to work on security machine learning and the usage of Deep models to detect threats and malicious actions. I&#39;ve started a PhD in Cybersecurity working in emerging risks in Artificial intelligence (that means all the field of adversarial machine learning.. training time-attacks and test-time evasion). I want to start a new line of research about this using mathematical tools as differential geometry and dynamical system(other suggestions?</p> <p>1) Wich are the open challenges in this field? </p> <p>2) There are recently work on the use of mathematical tools as dynamical system to solve some problem about adversarial machine learning?</p> <p>3) Some suggestion about reseources, papers or others(also idea!!!) to start a modern research line in this field?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RelationshipOk5930"> /u/RelationshipOk5930 </a> <br/> <span><a href="https://www.reddit.com/r/MachineLearning/comments/1s36bxr/r_adversarial_machine_learning/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/MachineLearning/comments/1s36bxr/r_adversarial_machine_learning/">[comments]</a></span>
