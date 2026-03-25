@@ -1,0 +1,7 @@
+# [P] Best approach for online crowd density prediction from noisy video counts? (no training data)
+
+Source: [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1s32g40/p_best_approach_for_online_crowd_density/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>I have per-frame head counts from P2PNet running on crowd video clips. Counts are stable but noisy (±10%). I need to predict density 5-10 frames ahead per zone, and estimate time-to-critical-threshold.</p> <p>Currently using EMA-smoothed Gaussian-weighted linear extrapolation. MAE ~20 on 55 frames. Direction accuracy 49% (basically coin flip on reversals).</p> <p>No historical training data available. Must run online/real-time on CPU.</p> <p>What would you try? Kalman filter? Double exponential smoothing? Something else?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WitnessWonderful8270"> /u/WitnessWonderful8270 </a> <br/> <span><a href="https://www.reddit.com/r/MachineLearning/comments/1s32g40/p_best_approach_for_online_crowd_density/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/MachineLearning/comments/1s32g40/p_best_approach_for_online_crowd_density/">[comments]</a></span>
