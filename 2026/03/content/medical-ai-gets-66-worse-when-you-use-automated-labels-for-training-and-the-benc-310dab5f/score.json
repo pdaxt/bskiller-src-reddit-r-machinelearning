@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.1,
+  "bs_rating": "Mixed Signals",
+  "scored_at": "2026-03-21 02:48:45",
+  "scoring_method": "ai",
+  "summary": "Legitimate research from a peer-reviewed venue (ISBI 2026) with publicly accessible arXiv paper, but the Reddit summary may oversimplify the findings. The core claims about automated label bias and age-related performance gaps align with established ML fairness research, making this low-BS but with typical Reddit headline inflation.",
+  "career_angle": "Follow the money to understand where job growth will be in 12-18 months. Big funding rounds create hiring waves.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "Reddit r/MachineLearning classified as tier_4 (lower-tier or promotional source, reliability: 40%); 5 source links cited",
+      "score": 3.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "weak credibility signals (2.5); contains data/benchmark references; references academic work; high citation density (29.2/1k words)",
+      "score": 7.5,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "no code, methodology, or reproducibility details provided",
+      "score": 1.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "no overt promotional language in this Reddit r/MachineLearning piece, independence unconfirmed",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "high hype (5.5/10) -- claim ahead of consensus; some credible signals present; 5 references cited",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "no vague hedging language detected; heavy hype language reduces specificity; contains specific numbers/data",
+      "score": 3.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Reddit r/MachineLearning: limited or inconsistent track record; 2 red flags detected (track record penalty: -2); 3 green flags detected (+1.5)",
+      "score": 2.0,
+      "weight": 0.1
+    }
+  ]
+}
