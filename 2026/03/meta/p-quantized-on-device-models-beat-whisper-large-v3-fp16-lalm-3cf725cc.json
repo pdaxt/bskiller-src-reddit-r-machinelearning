@@ -1,0 +1,17 @@
+{
+  "id": "3cf725cc-6feb-4dc3-8bb3-e77c63ab2309",
+  "title": "[P] Quantized on-device models beat Whisper Large v3 (FP16)  -  LALM vs transducer, 15k inference tests, fully reproducible",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1rz94na/p_quantized_ondevice_models_beat_whisper_large_v3/",
+  "source_name": "Reddit r/MachineLearning",
+  "published_at": "2026-03-20T21:39:01+00:00",
+  "scraped_at": "2026-03-21 03:17:58",
+  "bs_score": 5.1,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": null,
+  "approved": true,
+  "author_name": "/u/ivan_digital"
+}
