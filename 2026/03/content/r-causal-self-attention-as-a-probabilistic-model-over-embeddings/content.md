@@ -1,0 +1,7 @@
+# [R] Causal self-attention as a probabilistic model over embeddings
+
+Source: [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1s248e0/r_causal_selfattention_as_a_probabilistic_model/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>We’ve been working on a probabilistic interpretation of causal self-attention where token embeddings are treated as latent variables. In that view, the attention map induces a change-of-variables term, which leads to a barrier / degeneracy boundary in embedding space.</p> <p>The resulting picture is:</p> <ul> <li>a stability-margin interpretation of causal attention</li> <li>“support tokens,” i.e. the positions closest to the degeneracy boundary</li> <li>a simple MAP-style training penalty: standard cross-entropy plus a smooth log-barrier term</li> </ul> <p>Empirically, this improves robustness to input perturbations and makes the learned geometry more margin-concentrated, without much loss in clean accuracy at modest regularization strengths.</p> <p>Curious whether this framing feels natural to people, or whether it reads more like a &lt;insert-your-favorite-regularizer-here&gt; than a genuinely probabilistic view.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Old-Letterhead-1945"> /u/Old-Letterhead-1945 </a> <br/> <span><a href="https://arxiv.org/abs/2602.22271">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/MachineLearning/comments/1s248e0/r_causal_selfattention_as_a_probabilistic_model/">[comments]</a></span>
