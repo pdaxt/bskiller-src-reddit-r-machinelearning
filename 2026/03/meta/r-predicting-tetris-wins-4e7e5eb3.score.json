@@ -1,0 +1,12 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "story_id": "4e7e5eb3-4e77-416f-943e-3276e9c65613",
+  "title": "[R] Predicting Tetris wins",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1rzmh1a/r_predicting_tetris_wins/",
+  "bs_score": 5.6,
+  "bs_rating": "Mixed Signals",
+  "category": "community",
+  "summary": "Solid ML hobby project with real data + reproducible code, but lacks statistical rigor, peer validation, and admits findings may just be Tetr.io 101. Authors are 1-month-old players treating obvious meta as novel insight.",
+  "editorial_comment": "",
+  "scored_at": "2026-03-25T10:33:45.351327+00:00"
+}
