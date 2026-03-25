@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.5,
+  "bs_rating": "High BS",
+  "scored_at": "2026-03-25T14:14:19Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Structured prompting genuinely works -- learn few-shot patterns, chain-of-thought, and system prompt design from Anthropic/OpenAI docs instead of pseudoscientific frameworks. Skip the paper, keep the lesson: constrained prompts beat vague ones.",
+  "flagged_for_debate": true,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Unknown author, Zenodo self-publish (no peer review), no institutional affiliation, Reddit self-promotion post"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "275 'production observations' with no methodology disclosure. SNR applied to text prompts is metaphorical, not mathematical. Precise numbers (42.7%) mask absence of valid measurement framework"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Open source code and pip package exist, which is genuinely good. But reproducing results requires accepting the flawed theoretical premise that prompts are bandlimited signals"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Author promoting their own package and paper. Financial incentive if framework gains adoption. Classic academic self-promotion pattern"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 2.0,
+      "weight": 0.0,
+      "rationale": "Zero adoption in the field. No citations. The core mapping (Nyquist to prompts, aliasing to hallucination) has no theoretical basis -- prompts aren't continuous signals sampled at discrete intervals"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Impressively specific numbers but precision without valid methodology is theater. Claiming SNR of 0.003 for a text prompt has no defined measurement basis"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "No visible prior work, no institutional backing, no community recognition. First and only publication from this author on the topic"
+    }
+  ]
+}
