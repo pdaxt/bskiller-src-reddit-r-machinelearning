@@ -1,3 +1,7 @@
 # [D] ICML 2026 Review Discussion
 
+Source: [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1s1yz2t/d_icml_2026_review_discussion/)
+
+---
+
 <!-- SC_OFF --><div class="md"><p>ICML 2026 reviews will release today (24-March AoE), This thread is open to discuss about reviews and importantly celebrate successful reviews.</p> <p>Let us all remember that review system is noisy and we all suffer from it and this doesn&#39;t define our research impact. Let&#39;s all prioritise reviews which enhance our papers. Feel free to discuss your experiences</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Afraid_Difference697"> /u/Afraid_Difference697 </a> <br/> <span><a href="https://www.reddit.com/r/MachineLearning/comments/1s1yz2t/d_icml_2026_review_discussion/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/MachineLearning/comments/1s1yz2t/d_icml_2026_review_discussion/">[comments]</a></span>
