@@ -1,0 +1,7 @@
+# [D] opinions about a fund for creators sponsored by AI companies?
+
+Source: [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1rz4r23/d_opinions_about_a_fund_for_creators_sponsored_by/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.lemonde.fr/en/international/article/2026/03/20/mistral-ceo-demands-eu-ai-levy-to-pay-cultural-sector%5C_6751643%5C_4.html">https://www.lemonde.fr/en/international/article/2026/03/20/mistral-ceo-demands-eu-ai-levy-to-pay-cultural-sector\_6751643\_4.html</a></p> <p>Companies based in the EU certainly face a disadvantage if they stick to regulations. At the same time, I am afraid this fund will just increase the cost of automation for everyone. maybe it&#39;s not such a bad thing.</p> <p>what do you think?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gized00"> /u/gized00 </a> <br/> <span><a href="https://www.reddit.com/r/MachineLearning/comments/1rz4r23/d_opinions_about_a_fund_for_creators_sponsored_by/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/MachineLearning/comments/1rz4r23/d_opinions_about_a_fund_for_creators_sponsored_by/">[comments]</a></span>
