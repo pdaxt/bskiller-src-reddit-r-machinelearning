@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 3.0,
+  "bs_rating": "Mostly Credible",
+  "scored_at": "2026-03-25T14:14:42Z",
+  "scoring_method": "heuristic",
+  "career_angle": "If you're in ML, knowing model comparison basics (likelihood ratio tests for nested, AIC/BIC or Vuong test for non-nested) is table stakes. Learn it now or get caught faking it later.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Self-identified bachelor student with no demonstrated expertise, but the question itself is grounded in real statistical methodology"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "No claims being made -- it's a question, not an assertion. Nothing to fact-check."
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "The underlying statistical methods (C-index, log-rank, AIC, cross-validated concordance) are well-established and reproducible"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 9.0,
+      "weight": 0.0,
+      "rationale": "Zero commercial interest. A student genuinely trying to learn."
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 8.0,
+      "weight": 0.0,
+      "rationale": "Model comparison methodology in survival analysis is well-studied with clear consensus answers available in any biostatistics textbook"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Vague question -- doesn't specify which models, what data, or what 'high dimensional' means in their context. Classic undergrad energy."
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Unknown Reddit user, no post history context, but the question is earnest and not misleading"
+    }
+  ]
+}
