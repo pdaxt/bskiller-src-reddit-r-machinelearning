@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 3.3,
+  "bs_rating": "Mostly Credible",
+  "scored_at": "2026-03-25T14:14:40Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Fork the repo and complete every assignment from scratch -- interviewers care about whether you can implement backprop without PyTorch, not whether you watched another 3Blue1Brown video.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Reddit post from a Skoltech instructor -- not peer-reviewed but Skoltech is a legitimate research institution and the author is transparent about their background"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "Tangible open-source deliverable with actual test suites and course deployment -- not vaporware or a landing page with a waitlist"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 8.0,
+      "weight": 0.0,
+      "rationale": "Open-source with automated tests is literally the gold standard for reproducibility -- anyone can clone, run, and verify"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Mild self-promotion but the materials are free and open-source with no monetization angle -- the incentive is reputation, not revenue"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "Building ML algorithms from scratch is a well-established pedagogical approach endorsed by educators like Andrew Ng and fast.ai"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Describes the methodology (templates + test suites) and philosophy clearly, though the post cuts off before listing specific algorithms covered"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Author is refreshingly honest about failing interviews -- no guru posturing, just someone who built what they wished they had"
+    }
+  ]
+}
