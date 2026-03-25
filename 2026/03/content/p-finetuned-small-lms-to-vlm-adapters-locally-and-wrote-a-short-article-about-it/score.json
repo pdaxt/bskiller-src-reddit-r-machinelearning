@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.8,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-25T14:13:33.033042+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:20:44Z",
+  "scoring_method": "heuristic",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 3.0,
+      "weight": 0.15,
+      "rationale": "Reddit r/MachineLearning classified as tier_4 (lower-tier or promotional source, reliability: 40%); 5 source links cited"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 4.5,
+      "weight": 0.2,
+      "rationale": "contains data/benchmark references; high citation density (43.5/1k words)"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 6.5,
+      "weight": 0.15,
+      "rationale": "open source / code available; data availability mentioned"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "no overt promotional language in this Reddit r/MachineLearning piece, independence unconfirmed"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 4.5,
+      "weight": 0.15,
+      "rationale": "5 references cited"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 4.0,
+      "weight": 0.1,
+      "rationale": "no vague hedging language detected; contains specific numbers/data"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 2.0,
+      "weight": 0.1,
+      "rationale": "Reddit r/MachineLearning: limited or inconsistent track record; 1 red flags detected (track record penalty: -1); 1 green flags detected (+0.5)"
+    }
+  ]
 }
