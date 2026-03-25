@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.0,
+  "bs_rating": "High BS",
+  "scored_at": "2026-03-25T13:30:05Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Consider how this development might affect your role. The skills that matter are shifting - make sure yours are shifting with them.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 3.5,
+      "weight": 0.15,
+      "rationale": "'[P] Best approach for online crowd density prediction fro...' -- Reddit r/MachineLearning is lower-tier or promotional source (tier_4, reliability: 40%)"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 3.0,
+      "weight": 0.2,
+      "rationale": "specific figures cited: 'able but noisy (±10%', 'irection accuracy 49%'"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "'[P] Best approach for online crowd density prediction fro...' -- no code, methodology, or reproducibility details provided"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "'[P] Best approach for online crowd density prediction fro...' -- no overt promotional language from Reddit r/MachineLearning, but independence not confirmed"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "'[P] Best approach for online crowd density prediction fro...' -- not cross-referenced against external expert consensus"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 4.5,
+      "weight": 0.1,
+      "rationale": "cites concrete figures: 'able but noisy (±10%', 'irection accuracy 49%'"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 3.5,
+      "weight": 0.1,
+      "rationale": "Reddit r/MachineLearning -- limited or inconsistent track record"
+    }
+  ]
+}
