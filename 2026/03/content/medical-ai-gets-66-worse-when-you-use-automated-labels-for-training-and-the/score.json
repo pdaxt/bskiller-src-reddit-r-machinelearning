@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.1,
+  "bs_rating": "Mixed Signals",
+  "scored_at": "2026-03-25T14:20:35Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Follow the money to understand where job growth will be in 12-18 months. Big funding rounds create hiring waves.",
+  "flagged_for_debate": true,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 3.0,
+      "weight": 0.15,
+      "rationale": "Reddit r/MachineLearning classified as tier_4 (lower-tier or promotional source, reliability: 40%); 5 source links cited"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 7.5,
+      "weight": 0.2,
+      "rationale": "weak credibility signals (2.5); contains data/benchmark references; references academic work; high citation density (29.2/1k words)"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 1.5,
+      "weight": 0.15,
+      "rationale": "no code, methodology, or reproducibility details provided"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "no overt promotional language in this Reddit r/MachineLearning piece, independence unconfirmed"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "high hype (5.5/10) -- claim ahead of consensus; some credible signals present; 5 references cited"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 3.0,
+      "weight": 0.1,
+      "rationale": "no vague hedging language detected; heavy hype language reduces specificity; contains specific numbers/data"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 2.0,
+      "weight": 0.1,
+      "rationale": "Reddit r/MachineLearning: limited or inconsistent track record; 2 red flags detected (track record penalty: -2); 3 green flags detected (+1.5)"
+    }
+  ]
+}
