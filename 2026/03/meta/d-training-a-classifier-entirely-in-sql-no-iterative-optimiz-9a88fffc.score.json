@@ -1,0 +1,12 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "story_id": "9a88fffc-1c63-44f1-907b-b7d6fb52b037",
+  "title": "[D] Training a classifier entirely in SQL (no iterative optimization)",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1s0y1n2/d_training_a_classifier_entirely_in_sql_no/",
+  "bs_score": 4.4,
+  "bs_rating": "mixed",
+  "category": "community",
+  "summary": "",
+  "editorial_comment": "",
+  "scored_at": "2026-03-25T10:32:35.236049+00:00"
+}
