@@ -1,0 +1,17 @@
+{
+  "id": "ece4fd87-8115-487f-bf58-3c74e5a3d270",
+  "title": "What measure do I use to compare nested models and non nested models in high dimensional survival analysis [D]",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1rzpyjc/what_measure_do_i_use_to_compare_nested_models/",
+  "source_name": "Reddit r/MachineLearning",
+  "published_at": "2026-03-21T12:15:05+00:00",
+  "scraped_at": "2026-03-22 00:41:04",
+  "bs_score": 3.0,
+  "bs_rating": "Mostly Credible",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "A bachelor student asking a legitimate statistical methodology question about comparing nested vs non-nested survival models. Not a story -- just a student doing their homework on Reddit instead of reading Burnham & Anderson.",
+  "approved": true,
+  "author_name": "/u/baelorthebest"
+}
