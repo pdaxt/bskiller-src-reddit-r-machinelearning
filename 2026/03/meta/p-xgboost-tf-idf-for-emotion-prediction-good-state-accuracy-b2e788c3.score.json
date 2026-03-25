@@ -1,0 +1,12 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "story_id": "b2e788c3-99e2-41a1-b6a1-e0b9076154b3",
+  "title": "[P] XGBoost + TF-IDF for emotion prediction  -  good state accuracy but struggling with intensity (need advice)",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ry1mej/p_xgboost_tfidf_for_emotion_prediction_good_state/",
+  "bs_score": 2.0,
+  "bs_rating": "low_bs",
+  "category": "community",
+  "summary": "",
+  "editorial_comment": "",
+  "scored_at": "2026-03-25T10:34:40.346707+00:00"
+}
