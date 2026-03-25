@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 7.5,
+  "bs_rating": "High BS",
+  "career_angle": "If you're genuinely interested in NLP classification with latency constraints, look at production systems at actual email providers (Google, Microsoft) -- not tools designed to help spammers evade their filters.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 3.0,
+      "rationale": "Reddit r/MachineLearning post from unknown author with no published research, no affiliation, no prior work cited"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 3.0,
+      "rationale": "5k labeled emails is tiny, no accuracy metrics shared, no baseline comparisons, no methodology for how 'verified reputation drops' were labeled"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 2.0,
+      "rationale": "Dataset not public, 14 custom features undefined, no code repo, no benchmark results to reproduce -- just claims of a 'performance ceiling'"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 8.0,
+      "rationale": "This is marketing disguised as a technical question. The poster is building cold email tooling and using r/MachineLearning for credibility laundering and lead generation"
+    },
+    {
+      "dimension": "consensus",
+      "score": 7.0,
+      "rationale": "Mainstream email deliverability research does not use these invented terms. 'Heuristic-based Deliverability Intelligence' is not an established field -- it is a product pitch"
+    },
+    {
+      "dimension": "specificity",
+      "score": 4.0,
+      "rationale": "Names specific models (XGBoost, DistilBERT) and real concepts (inference latency, feature engineering) but the novel claims are vague buzzwords with no definitions"
+    },
+    {
+      "dimension": "track_record",
+      "score": 2.0,
+      "rationale": "No prior publications, no open-source contributions, no verifiable results. First post pattern typical of product-led content marketing on ML subreddits"
+    }
+  ]
+}
