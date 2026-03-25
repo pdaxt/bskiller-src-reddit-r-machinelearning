@@ -1,0 +1,17 @@
+{
+  "id": "693ddaa9-459f-4aab-943e-b287db765b1d",
+  "title": "[D] Single-artist longitudinal fine art dataset spanning 5 decades now on Hugging Face \u2014 potential applications in style evolution, figure representation, and ethical training data",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1s0dce7/d_singleartist_longitudinal_fine_art_dataset/",
+  "source_name": "Reddit r/MachineLearning",
+  "published_at": "2026-03-22T05:24:48+00:00",
+  "scraped_at": "2026-03-22 06:22:42",
+  "bs_score": 2.6,
+  "bs_rating": "Verified",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "A legit artist with Met/MoMA credentials open-sourcing their life's work for ML research. No hype, no fundraise, no token launch -- just a properly licensed dataset with real provenance, which is rarer than people think.",
+  "approved": true,
+  "author_name": "/u/hafftka"
+}
