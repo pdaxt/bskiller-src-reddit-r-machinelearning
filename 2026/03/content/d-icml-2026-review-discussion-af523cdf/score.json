@@ -2,8 +2,11 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.7,
   "bs_rating": "Mixed Evidence",
+  "scored_at": "2026-03-24 04:14:05",
+  "scoring_method": "heuristic",
+  "summary": "",
   "career_angle": "Consider how this development might affect your role. The skills that matter are shifting - make sure yours are shifting with them.",
-  "factors": [
+  "dimensions": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
