@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 2.0,
+  "bs_rating": "Verified",
+  "scored_at": "2026-03-25T14:14:37Z",
+  "scoring_method": "heuristic",
+  "career_angle": "If you publish on arXiv or depend on preprints for research, watch how the new nonprofit handles submission quality filters -- tighter moderation could change how fast your work gets indexed.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 9.0,
+      "weight": 0.0,
+      "rationale": "Science magazine (AAAS) is a top-tier peer-reviewed journal reporting on a verifiable institutional change"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 8.5,
+      "weight": 0.0,
+      "rationale": "Institutional announcement with named parties (arXiv, Cornell) -- not speculation or anonymous sources"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 9.0,
+      "weight": 0.0,
+      "rationale": "Binary factual claim: arXiv either filed for nonprofit status or it didn't. Easily verifiable via Cornell and arXiv's own communications"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 7.5,
+      "weight": 0.0,
+      "rationale": "Science mag has mild interest in preprint server dynamics as a competing publication venue, but reporting is straightforward news coverage"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 8.5,
+      "weight": 0.0,
+      "rationale": "Multiple outlets covering the same announcement -- no serious dispute about whether this is happening"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "The independence claim is specific and concrete; the 'AI slop' angle is vaguer editorial framing without hard submission rejection numbers"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 9.0,
+      "weight": 0.0,
+      "rationale": "ArXiv has operated transparently for 30+ years. Science magazine has strong editorial standards. Both entities have long credibility histories"
+    }
+  ]
+}
