@@ -1,0 +1,17 @@
+{
+  "id": "b496f6ee-de36-46d9-a7b1-619e66fa7ed6",
+  "title": "[R] Seeing arxiv endorser (eess.IV or cs.CV) CT lung nodule AI validation preprint",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1rztzib/r_seeing_arxiv_endorser_eessiv_or_cscv_ct_lung/",
+  "source_name": "Reddit r/MachineLearning",
+  "published_at": "2026-03-21T15:15:14+00:00",
+  "scraped_at": "2026-03-22 00:41:04",
+  "bs_score": 2.5,
+  "bs_rating": "Verified",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Medical physicist doing exactly the kind of post-deployment validation work the AI-in-healthcare space desperately needs. Finding that slice thickness tanks lung nodule detection by 42% is the unglamorous truth that vendor pitch decks conveniently omit.",
+  "approved": true,
+  "author_name": "/u/californiaburritoman"
+}
