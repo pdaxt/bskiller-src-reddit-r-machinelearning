@@ -1,0 +1,7 @@
+# [D] Any other PhD students feel underprepared and that the bar is too low?
+
+Source: [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1s3adeo/d_any_other_phd_students_feel_underprepared_and/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>Hello! I started my PhD a year and a half ago, and I feel like when I did everyone was kind of dismissive of how much/little theoretical knowledge I have or am missing.</p> <p>Now that I’ve been here a year I can say with confidence that I didn’t have enough theory, and am constantly scrambling to acquire it.</p> <p>This isn’t like an imposter syndrome rant, I think that this is quite common in ML academia, I just don’t know what to do with that reality, and wonder what folks on here think.</p> <p>Like why is it that despite citing the universal approximation theorem, and spending all our time working on applying it, so few of us can actually follow its proof?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scrungo__Beepis"> /u/Scrungo__Beepis </a> <br/> <span><a href="https://www.reddit.com/r/MachineLearning/comments/1s3adeo/d_any_other_phd_students_feel_underprepared_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/MachineLearning/comments/1s3adeo/d_any_other_phd_students_feel_underprepared_and/">[comments]</a></span>
