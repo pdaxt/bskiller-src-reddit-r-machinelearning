@@ -2,6 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.7,
   "bs_rating": "mixed",
-  "scored_at": "2026-03-25T13:22:37.265261+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:11:49Z",
+  "scoring_method": "heuristic",
+  "flagged_for_debate": false,
+  "dimensions": []
 }
