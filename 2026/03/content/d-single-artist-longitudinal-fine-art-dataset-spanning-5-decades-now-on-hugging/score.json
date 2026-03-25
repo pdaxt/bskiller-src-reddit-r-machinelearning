@@ -1,0 +1,61 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 2.6,
+  "bs_rating": "Verified",
+  "scored_at": "2026-03-25T19:46:38Z",
+  "scoring_method": "ai",
+  "summary": "A legit artist with Met/MoMA credentials open-sourcing their life's work for ML research. No hype, no fundraise, no token launch -- just a properly licensed dataset with real provenance, which is rarer than people think.",
+  "career_angle": "If you work in generative AI or computational art history, this is a clean training dataset you can actually cite without legal headaches. Good portfolio project: build a style-evolution model and publish the results.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 8.0,
+      "weight": 0.15,
+      "rationale": "Artist claims Met, MoMA, SFMOMA, British Museum collections -- verifiable institutional affiliations, not self-appointed credentials"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 8.5,
+      "weight": 0.2,
+      "rationale": "Concrete numbers (3-4K images), specific metadata fields, named source formats (4x5 transparencies), CC-BY-NC-4.0 license -- all checkable on Hugging Face"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 9.0,
+      "weight": 0.15,
+      "rationale": "Dataset is publicly available on Hugging Face with structured metadata -- anyone can download and verify claims independently"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "Artist benefits from visibility and AI-era relevance by positioning as ethical training data pioneer -- not malicious but clearly self-promotional"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 6.0,
+      "weight": 0.15,
+      "rationale": "Longitudinal single-artist datasets are genuinely uncommon in ML, but the claimed research applications (style drift, representation learning) are speculative until someone actually publishes results"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 8.0,
+      "weight": 0.1,
+      "rationale": "Unusually detailed: media types, scanning methods, metadata schema, exact image count ranges, license terms -- not vague promises"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 7.5,
+      "weight": 0.1,
+      "rationale": "Major museum collections lend credibility, though this is a first foray into ML dataset publishing -- no prior track record in that space specifically"
+    }
+  ]
+}
