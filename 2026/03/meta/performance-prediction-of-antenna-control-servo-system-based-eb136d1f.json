@@ -1,0 +1,17 @@
+{
+  "id": "eb136d1f-1c22-41a0-a65b-d9f8e966c144",
+  "title": "Performance Prediction of Antenna Control Servo System based on LSTM Network [R]",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1rzlq06/performance_prediction_of_antenna_control_servo/",
+  "source_name": "Reddit r/MachineLearning",
+  "published_at": "2026-03-21T07:54:55+00:00",
+  "scraped_at": "2026-03-21 10:59:13",
+  "bs_score": 6.7,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Legitimate IEEE-published research on a sensible, established ML application (LSTM for servo prediction). No hype, no product angle\u2014just academic work being shared appropriately on a technical forum. Main caveat: Reddit post is too sparse to verify actual results, and author has no verifiable track record.",
+  "approved": true,
+  "author_name": "/u/divyang_space"
+}
