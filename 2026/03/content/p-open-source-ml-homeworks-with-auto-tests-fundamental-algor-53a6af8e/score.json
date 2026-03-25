@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 3.3,
+  "bs_rating": "Mostly Credible",
+  "career_angle": "Fork the repo and complete every assignment from scratch -- interviewers care about whether you can implement backprop without PyTorch, not whether you watched another 3Blue1Brown video.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 6.0,
+      "rationale": "Reddit post from a Skoltech instructor -- not peer-reviewed but Skoltech is a legitimate research institution and the author is transparent about their background"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 7.0,
+      "rationale": "Tangible open-source deliverable with actual test suites and course deployment -- not vaporware or a landing page with a waitlist"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 8.0,
+      "rationale": "Open-source with automated tests is literally the gold standard for reproducibility -- anyone can clone, run, and verify"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 6.0,
+      "rationale": "Mild self-promotion but the materials are free and open-source with no monetization angle -- the incentive is reputation, not revenue"
+    },
+    {
+      "dimension": "consensus",
+      "score": 7.0,
+      "rationale": "Building ML algorithms from scratch is a well-established pedagogical approach endorsed by educators like Andrew Ng and fast.ai"
+    },
+    {
+      "dimension": "specificity",
+      "score": 6.0,
+      "rationale": "Describes the methodology (templates + test suites) and philosophy clearly, though the post cuts off before listing specific algorithms covered"
+    },
+    {
+      "dimension": "track_record",
+      "score": 6.0,
+      "rationale": "Author is refreshingly honest about failing interviews -- no guru posturing, just someone who built what they wished they had"
+    }
+  ]
+}
