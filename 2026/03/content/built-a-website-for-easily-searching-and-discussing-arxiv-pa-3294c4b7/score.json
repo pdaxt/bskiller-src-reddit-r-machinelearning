@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 4.0,
+  "bs_rating": "Mostly Credible",
+  "career_angle": "If you work with research papers regularly, tools like Discuria or Semantic Scholar's API can speed up literature reviews. Building similar niche developer tools is a solid portfolio play -- small, useful, demonstrable.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 5.0,
+      "rationale": "Random Reddit user with no established credibility, but r/MachineLearning is a legitimate community and [P] tag correctly marks it as a project post."
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 6.0,
+      "rationale": "Live product at discuria.org that anyone can verify. No inflated metrics or unsubstantiated claims -- just 'I built this, try it.'"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 7.0,
+      "rationale": "The tool is publicly accessible and its claims (search, annotations, comments, read-aloud) are trivially verifiable by visiting the site."
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 4.0,
+      "rationale": "Self-promotion post -- the creator is marketing their own product. 'All features are free' softens it but the intent is clearly user acquisition."
+    },
+    {
+      "dimension": "consensus",
+      "score": 5.0,
+      "rationale": "ArXiv search tools are a crowded space (Semantic Scholar, Connected Papers, Papers With Code). No evidence this adds meaningful differentiation beyond bundling existing features."
+    },
+    {
+      "dimension": "specificity",
+      "score": 6.0,
+      "rationale": "Concrete feature list (annotations, AI assistant, read-aloud, multi-database coverage) rather than vague promises. The 'AI assistant' claim is unspecified but everything else is concrete."
+    },
+    {
+      "dimension": "track_record",
+      "score": 5.0,
+      "rationale": "Unknown developer, no prior track record visible. Not a red flag for a side project, but no trust signal either."
+    }
+  ]
+}
