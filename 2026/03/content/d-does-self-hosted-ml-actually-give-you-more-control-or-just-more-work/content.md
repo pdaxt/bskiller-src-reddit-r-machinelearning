@@ -1,0 +1,7 @@
+# [D] Does self-hosted ML actually give you more control, or just more work?
+
+Source: [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1s1ta4m/d_does_selfhosted_ml_actually_give_you_more/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>Curious how people think about this.</p> <p>Does running self-hosted/on-prem models meaningfully improve control, or does it mostly shift complexity onto your team?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/replicatedhq"> /u/replicatedhq </a> <br/> <span><a href="https://www.reddit.com/r/MachineLearning/comments/1s1ta4m/d_does_selfhosted_ml_actually_give_you_more/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/MachineLearning/comments/1s1ta4m/d_does_selfhosted_ml_actually_give_you_more/">[comments]</a></span>
