@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 2.5,
   "bs_rating": "Verified",
-  "scored_at": "2026-03-25T13:31:00.925927+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:14:46Z",
+  "scoring_method": "heuristic",
+  "career_angle": "If you're in medical AI or radiology informatics, this is the type of acquisition-parameter sensitivity work that differentiates serious clinical AI engineers from model-zoo tourists. Understanding how scanner settings break deployed models is a rare and bankable skill.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 8.0,
+      "weight": 0.0,
+      "rationale": "Medical physicist with domain expertise publishing validation research, not a startup founder hyping vaporware"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 7.5,
+      "weight": 0.0,
+      "rationale": "Specific dataset (LIDC-IDRI), established weights (LUNA16), quantified sensitivity drops with confidence threshold sweep from 0.1-0.9"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 8.0,
+      "weight": 0.0,
+      "rationale": "MONAI framework is open-source, LIDC-IDRI is public, LUNA16 weights are available -- anyone can replicate"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 9.0,
+      "weight": 0.0,
+      "rationale": "Academic researcher seeking arXiv endorsement, no product to sell, no funding announcement, findings actually highlight AI failures"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 6.5,
+      "weight": 0.0,
+      "rationale": "Preprint not yet peer-reviewed or endorsed, but the finding that acquisition parameters degrade AI performance aligns with known robustness literature"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 9.0,
+      "weight": 0.0,
+      "rationale": "42% relative sensitivity drop at 5mm slice thickness, ~4pp loss at 25-50% dose reduction, threshold sweep 0.1-0.9 -- unusually precise for a Reddit post"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Unknown publication history for this author, but medical physics background and technical depth suggest legitimate researcher, not clout farmer"
+    }
+  ]
 }
