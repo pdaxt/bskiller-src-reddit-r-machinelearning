@@ -1,0 +1,7 @@
+# Performance Prediction of Antenna Control Servo System based on LSTM Network [R]
+
+Source: [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1rzlq06/performance_prediction_of_antenna_control_servo/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p><a href="https://ieeexplore.ieee.org/abstract/document/10668250">https://ieeexplore.ieee.org/abstract/document/10668250</a> Wrote a paper on how to improve performance of servo system (rotating antenna system for satellite tracking) using LSTM. inviting suggestions.!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/divyang_space"> /u/divyang_space </a> <br/> <span><a href="https://www.reddit.com/r/MachineLearning/comments/1rzlq06/performance_prediction_of_antenna_control_servo/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/MachineLearning/comments/1rzlq06/performance_prediction_of_antenna_control_servo/">[comments]</a></span>
