@@ -1,0 +1,7 @@
+# [D] rtx 3060 323$ vs rtx 5050 294$
+
+Source: [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1s0l3zh/d_rtx_3060_323_vs_rtx_5050_294/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>My friends, I&#39;m in a real dilemma. I don&#39;t know what to choose. Both graphics cards are new, but unfortunately, the RTX 3060 is more expensive, and I don&#39;t know why. I&#39;m going to play games and learn AI, and AI recommended the RTX 3060 to me.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Proud_Clerk_8448"> /u/Proud_Clerk_8448 </a> <br/> <span><a href="https://www.reddit.com/r/MachineLearning/comments/1s0l3zh/d_rtx_3060_323_vs_rtx_5050_294/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/MachineLearning/comments/1s0l3zh/d_rtx_3060_323_vs_rtx_5050_294/">[comments]</a></span>
