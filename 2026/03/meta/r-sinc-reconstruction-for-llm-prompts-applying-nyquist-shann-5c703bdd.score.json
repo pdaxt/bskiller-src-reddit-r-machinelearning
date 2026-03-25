@@ -1,0 +1,12 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "story_id": "5c703bdd-339d-442d-99e9-526c65dcef13",
+  "title": ": [R] Sinc Reconstruction for LLM Prompts: Applying Nyquist-Shannon to the Specification Axis (275 obs, 97% cost reduction, open source)",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1s08xft/r_sinc_reconstruction_for_llm_prompts_applying/",
+  "bs_score": 6.5,
+  "bs_rating": "High BS",
+  "category": "community",
+  "summary": "Cargo-cult science: slapping Nyquist-Shannon terminology onto prompt engineering doesn't make prompts 'signals' any more than calling your sandwich a 'distributed nutrition protocol' makes it engineering. The 97% cost reduction likely comes from just writing tighter prompts, which needs zero signal processing theory to explain.",
+  "editorial_comment": "",
+  "scored_at": "2026-03-25T10:33:18.636547+00:00"
+}
