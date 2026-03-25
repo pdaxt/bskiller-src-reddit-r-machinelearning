@@ -1,0 +1,46 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 4.5,
+  "bs_rating": "Mixed Signals",
+  "scored_at": "2026-03-22 00:41:04",
+  "scoring_method": "ai",
+  "summary": "Real technical work with specific architecture details, but the ~2700 Elo claim on a 16M param model with 1-ply search is suspiciously strong and conveniently unverified against standardized benchmarks. The 'vibecoded' framing is peak 2026 clout-bait wrapping what's actually a solid hobby project.",
+  "career_angle": "The training pipeline (supervised pretraining -> endgame fine-tuning -> self-play RL) is a genuinely useful pattern to study for any ML role. Skip the vibecoding hype -- learn the AlphaZero paper directly and implement MCTS yourself if you want interview-ready depth.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "score": 5.0,
+      "rationale": "Self-posted on r/MachineLearning -- no peer review, no institutional affiliation, no established identity. Community is legit but anyone can post."
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 4.0,
+      "rationale": "Specific architecture details are good, but the headline 2700 Elo claim lacks rigorous benchmarking methodology. Against what engine pool? What time controls? Lichess ratings inflate heavily vs FIDE. 'May have ended up being unusually compute-efficient' is doing a lot of heavy lifting."
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 6.0,
+      "rationale": "Browser-playable so you can test it yourself. Hardware and pipeline described. But 'vibecoded' means the actual training code is likely messy and hard to reproduce exactly."
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 5.0,
+      "rationale": "Classic project showcase post seeking validation and GitHub stars. No commercial angle but strong ego/clout motivation to overstate performance. The 'Karpathy-inspired' name-drop is strategic credibility borrowing."
+    },
+    {
+      "dimension": "consensus",
+      "score": 4.0,
+      "rationale": "AlphaZero architecture is proven, but 2700 Elo from 16M params with 1-ply search on a single 4090 would be a genuinely surprising result. Leela Chess Zero needed massive distributed compute for similar strength. Extraordinary claims, ordinary evidence."
+    },
+    {
+      "dimension": "specificity",
+      "score": 7.0,
+      "rationale": "Strong technical specificity: 16M params, 19-plane input, 4672-move policy head, 100M+ positions, sub-2ms inference. This is not vaporware -- someone built something real."
+    },
+    {
+      "dimension": "track_record",
+      "score": 4.0,
+      "rationale": "Anonymous Reddit poster with no established ML track record mentioned. No prior publications, no known contributions to chess engine community."
+    }
+  ]
+}
