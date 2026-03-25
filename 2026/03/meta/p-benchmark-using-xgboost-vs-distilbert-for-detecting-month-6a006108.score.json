@@ -1,0 +1,12 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "story_id": "6a006108-470e-4b22-8eff-ad53312f2711",
+  "title": "[P] Benchmark: Using XGBoost vs. DistilBERT for detecting \"Month 2 Tanking\" in cold email infrastructure?",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1rzpc28/p_benchmark_using_xgboost_vs_distilbert_for/",
+  "bs_score": 7.5,
+  "bs_rating": "High BS",
+  "category": "community",
+  "summary": "A cold email infrastructure tool dressed up as a legitimate ML research question. The poster invented jargon like 'Uniqueness Variance' and 'Tactical Aggression markers' to make spam deliverability optimization sound like serious data science.",
+  "editorial_comment": "",
+  "scored_at": "2026-03-25T10:33:35.441667+00:00"
+}
