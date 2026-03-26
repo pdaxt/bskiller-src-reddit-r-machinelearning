@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 6.7,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-21 02:48:45",
-  "scoring_method": "heuristic",
-  "summary": "",
   "career_angle": "Consider how this development might affect your role. The skills that matter are shifting - make sure yours are shifting with them.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
