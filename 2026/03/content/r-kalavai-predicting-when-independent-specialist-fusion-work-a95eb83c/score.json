@@ -1,0 +1,57 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.2,
+  "bs_rating": "Mixed Evidence",
+  "career_angle": "Open-source contributions build career capital. Star promising repos early, contribute to ones in your domain, and build your GitHub profile.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "'[R] KALAVAI: Predicting When Independent Specialist Fusio...' -- Reddit r/MachineLearning is lower-tier or promotional source (tier_4, reliability: 40%)",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "references specific benchmarks: arXiv paper reference, GitHub repository; references academic work; specific figures cited: 'tent \u2014 around +7-8%', 'ist at 410M/1B, +6.5%', 'ains) and got +16.71%'",
+      "score": 6.0,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "links to GitHub repository",
+      "score": 6.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "'[R] KALAVAI: Predicting When Independent Specialist Fusio...' -- no overt promotional language from Reddit r/MachineLearning, but independence not confirmed",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "'[R] KALAVAI: Predicting When Independent Specialist Fusio...' uses heavy hype language (10.0/10) -- claim likely ahead of expert consensus",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "cites concrete figures: 'tent \u2014 around +7-8%', 'ist at 410M/1B, +6.5%', 'ains) and got +16.71%'",
+      "score": 4.5,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Reddit r/MachineLearning -- limited or inconsistent track record",
+      "score": 3.5,
+      "weight": 0.1
+    }
+  ]
+}
