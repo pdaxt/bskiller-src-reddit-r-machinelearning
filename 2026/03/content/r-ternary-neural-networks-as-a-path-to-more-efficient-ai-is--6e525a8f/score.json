@@ -1,0 +1,57 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.7,
+  "bs_rating": "Mixed Evidence",
+  "career_angle": "AI regulation creates compliance jobs and reshapes which companies can operate where. Understanding policy gives you strategic career advantage.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "'[R] Ternary neural networks as a path to more efficient A...' -- Reddit r/MachineLearning is lower-tier or promotional source (tier_4, reliability: 40%)",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "references academic work",
+      "score": 4.5,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "'[R] Ternary neural networks as a path to more efficient A...' -- no code, methodology, or reproducibility details provided",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "'[R] Ternary neural networks as a path to more efficient A...' -- no overt promotional language from Reddit r/MachineLearning, but independence not confirmed",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "'[R] Ternary neural networks as a path to more efficient A...' -- not cross-referenced against external expert consensus",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "'[R] Ternary neural networks as a path to more efficient A...' -- no specific or falsifiable claims identified",
+      "score": 4.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Reddit r/MachineLearning -- limited or inconsistent track record",
+      "score": 3.5,
+      "weight": 0.1
+    }
+  ]
+}
