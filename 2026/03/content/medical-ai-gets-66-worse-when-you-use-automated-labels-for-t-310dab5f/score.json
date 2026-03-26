@@ -1,58 +1,57 @@
 {
   "framework_version": "bsaf-v1.0",
-  "bs_score": 5.2,
-  "bs_rating": "Mixed Evidence",
-  "career_angle": "Stay informed",
+  "bs_score": 6.1,
+  "bs_rating": "Mixed Signals",
+  "career_angle": "Follow the money to understand where job growth will be in 12-18 months. Big funding rounds create hiring waves.",
   "factors": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "Reddit r/MachineLearning classified as tier_4 (lower-tier or promotional source, reliability: 40%); 5 source links cited",
+      "score": 3.0,
       "weight": 0.15
     },
     {
       "dimension": "evidence_quality",
       "name": "Evidence Quality",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "weak credibility signals (2.5); contains data/benchmark references; references academic work; high citation density (29.2/1k words)",
+      "score": 7.5,
       "weight": 0.2
     },
     {
       "dimension": "reproducibility",
       "name": "Reproducibility",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "no code, methodology, or reproducibility details provided",
+      "score": 1.5,
       "weight": 0.15
     },
     {
       "dimension": "conflict_of_interest",
       "name": "Conflict of Interest",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "no overt promotional language in this Reddit r/MachineLearning piece, independence unconfirmed",
+      "score": 4.0,
       "weight": 0.15
     },
     {
       "dimension": "consensus",
       "name": "Consensus",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "high hype (5.5/10) -- claim ahead of consensus; some credible signals present; 5 references cited",
+      "score": 4.0,
       "weight": 0.15
     },
     {
       "dimension": "specificity",
       "name": "Specificity",
-      "rationale": "0 vague patterns",
+      "rationale": "no vague hedging language detected; heavy hype language reduces specificity; contains specific numbers/data",
       "score": 3.0,
       "weight": 0.1
     },
     {
       "dimension": "track_record",
       "name": "Track Record",
-      "rationale": "Default track record",
-      "score": 5.0,
+      "rationale": "Reddit r/MachineLearning: limited or inconsistent track record; 2 red flags detected (track record penalty: -2); 3 green flags detected (+1.5)",
+      "score": 2.0,
       "weight": 0.1
     }
-  ],
-  "scored_at": "2026-03-25T10:48:20.690173+00:00"
+  ]
 }
