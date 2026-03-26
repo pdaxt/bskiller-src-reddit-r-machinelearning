@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 6.0,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-21 10:59:13",
-  "scoring_method": "ai",
-  "summary": "This is an honest methodological question from an ML practitioner asking for guidance on bridging empirical and theoretical work\u2014a real, consensus-confirmed challenge in ML research. Zero BS detected; authentic community discussion seeking legitimate help.",
   "career_angle": "Consider how this development might affect your role. The skills that matter are shifting - make sure yours are shifting with them.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
