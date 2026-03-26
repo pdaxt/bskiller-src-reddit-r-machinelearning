@@ -1,58 +1,57 @@
 {
   "framework_version": "bsaf-v1.0",
-  "bs_score": 5.2,
-  "bs_rating": "Mixed Evidence",
-  "career_angle": "Policy watch",
+  "bs_score": 7.3,
+  "bs_rating": "High BS",
+  "career_angle": "AI regulation creates compliance jobs and reshapes which companies can operate where. Understanding policy gives you strategic career advantage.",
   "factors": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "Reddit r/MachineLearning classified as tier_4 (lower-tier or promotional source, reliability: 40%); 5 source links cited",
+      "score": 3.0,
       "weight": 0.15
     },
     {
       "dimension": "evidence_quality",
       "name": "Evidence Quality",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "high citation density (65.8/1k words)",
+      "score": 2.0,
       "weight": 0.2
     },
     {
       "dimension": "reproducibility",
       "name": "Reproducibility",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "no code, methodology, or reproducibility details provided",
+      "score": 1.5,
       "weight": 0.15
     },
     {
       "dimension": "conflict_of_interest",
       "name": "Conflict of Interest",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "sponsored/promotional content signals",
+      "score": 2.5,
       "weight": 0.15
     },
     {
       "dimension": "consensus",
       "name": "Consensus",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "5 references cited",
+      "score": 4.5,
       "weight": 0.15
     },
     {
       "dimension": "specificity",
       "name": "Specificity",
-      "rationale": "0 vague patterns",
-      "score": 3.0,
+      "rationale": "no vague hedging language detected; contains specific numbers/data",
+      "score": 4.0,
       "weight": 0.1
     },
     {
       "dimension": "track_record",
       "name": "Track Record",
-      "rationale": "Default track record",
-      "score": 5.0,
+      "rationale": "Reddit r/MachineLearning: limited or inconsistent track record; 1 red flags detected (track record penalty: -1)",
+      "score": 1.5,
       "weight": 0.1
     }
-  ],
-  "scored_at": "2026-03-25T10:48:08.791101+00:00"
+  ]
 }
