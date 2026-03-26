@@ -1,58 +1,57 @@
 {
   "framework_version": "bsaf-v1.0",
-  "bs_score": 5.2,
-  "bs_rating": "Mixed Evidence",
-  "career_angle": "Build with it: open-source tools",
+  "bs_score": 5.8,
+  "bs_rating": "Mixed Signals",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
   "factors": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "Reddit r/MachineLearning classified as tier_4 (lower-tier or promotional source, reliability: 40%); 5 source links cited",
+      "score": 3.0,
       "weight": 0.15
     },
     {
       "dimension": "evidence_quality",
       "name": "Evidence Quality",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "contains data/benchmark references; high citation density (43.5/1k words)",
+      "score": 4.5,
       "weight": 0.2
     },
     {
       "dimension": "reproducibility",
       "name": "Reproducibility",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "open source / code available; data availability mentioned",
+      "score": 6.5,
       "weight": 0.15
     },
     {
       "dimension": "conflict_of_interest",
       "name": "Conflict of Interest",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "no overt promotional language in this Reddit r/MachineLearning piece, independence unconfirmed",
+      "score": 4.0,
       "weight": 0.15
     },
     {
       "dimension": "consensus",
       "name": "Consensus",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "5 references cited",
+      "score": 4.5,
       "weight": 0.15
     },
     {
       "dimension": "specificity",
       "name": "Specificity",
-      "rationale": "0 vague patterns",
-      "score": 3.0,
+      "rationale": "no vague hedging language detected; contains specific numbers/data",
+      "score": 4.0,
       "weight": 0.1
     },
     {
       "dimension": "track_record",
       "name": "Track Record",
-      "rationale": "Default track record",
-      "score": 5.0,
+      "rationale": "Reddit r/MachineLearning: limited or inconsistent track record; 1 red flags detected (track record penalty: -1); 1 green flags detected (+0.5)",
+      "score": 2.0,
       "weight": 0.1
     }
-  ],
-  "scored_at": "2026-03-25T10:48:26.531637+00:00"
+  ]
 }
