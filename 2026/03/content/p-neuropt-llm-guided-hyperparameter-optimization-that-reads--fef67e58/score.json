@@ -1,0 +1,57 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 4.3,
+  "bs_rating": "Mostly Credible",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "Reddit r/MachineLearning classified as tier_4 (lower-tier or promotional source, reliability: 40%); 9 source links cited",
+      "score": 3.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "moderate credibility signals (3.5); contains data/benchmark references; references academic work; high citation density (33.3/1k words)",
+      "score": 8.5,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "open source / code available; data availability mentioned; contains data tables/figures",
+      "score": 7.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "no overt promotional language in this Reddit r/MachineLearning piece, independence unconfirmed",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "moderate hype (3.5/10); some credible signals present; 9 references cited -- broad sourcing",
+      "score": 6.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "no vague hedging language detected; moderate hype language; contains specific technical signals; contains specific numbers/data; contains data tables/figures",
+      "score": 6.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Reddit r/MachineLearning: limited or inconsistent track record; 1 red flags detected (track record penalty: -1); 4 green flags detected (+2.0)",
+      "score": 3.5,
+      "weight": 0.1
+    }
+  ]
+}
