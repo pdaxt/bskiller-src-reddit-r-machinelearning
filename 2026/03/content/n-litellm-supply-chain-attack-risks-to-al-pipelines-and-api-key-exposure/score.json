@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 3.6,
+  "career_angle": "Audit your AI pipeline dependencies now -- pin exact versions, enable hash verification, and monitor for unexpected package updates. If you run LiteLLM in production, rotate any API keys or cloud credentials that were in the runtime environment during the compromised window.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Reddit community post linking to thecybersecguru.com, a smaller blog -- not primary incident reporting from LiteLLM team or major security outlets",
+      "score": 5.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Documented attack with flowchart analysis, compromised package versions identifiable on PyPI, CI credential compromise confirmed",
+      "score": 7.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Malicious package versions are identifiable, attack chain is verifiable through PyPI release history and CI logs",
+      "score": 7.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Poster may be the blog author driving traffic -- raptorhunter22 account primarily shares cybersecguru.com links",
+      "score": 5.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "Supply chain compromise widely confirmed by security community, LiteLLM acknowledged the incident",
+      "score": 8.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Reddit post itself is vague -- 'compromised CI credentials' and 'extracting API keys' without naming versions or timelines inline",
+      "score": 5.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "Supply chain attacks on Python AI packages are a documented and growing attack class -- codecov, event-stream precedents establish pattern",
+      "score": 7.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
