@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 5.5,
+  "career_angle": "Don't pivot your career based on Reddit speculation about paradigm shifts. If you're in AppSec or formal verification, learn what energy-based models actually are (JEPA papers) so you can separate signal from hype when real announcements drop.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Reddit discussion post, not Bloomberg directly. No link to primary source. r/MachineLearning has knowledgeable users but this is speculation, not reporting.",
+      "score": 4.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Claims Bloomberg reported a $1B seed round but provides zero links, quotes, or dates. Technical claims about EBMs are directionally correct but mixed with unverifiable business details.",
+      "score": 3.5
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Cannot verify the core claim -- no Bloomberg link, no company website, no SEC filing. The technical discussion about EBM training difficulty is reproducibly documented in literature.",
+      "score": 3.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Poster appears genuinely curious rather than shilling, but the engagement-optimized framing (keeping me up at night, billion-dollar physics experiment) suggests karma farming.",
+      "score": 6.5
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "LeCun's public criticisms of autoregressive models are well-documented and shared by some researchers. But 'paradigm shift away from LLMs' is a massive overclaim with no community consensus.",
+      "score": 5.5
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Suspiciously specific ($1B, company name, technical approach) for something with zero primary sources. Real specificity comes with receipts; this has none.",
+      "score": 5.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "LeCun's track record on identifying LLM limitations is strong. But the poster's account and the claimed company have no verifiable track record to evaluate.",
+      "score": 5.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
