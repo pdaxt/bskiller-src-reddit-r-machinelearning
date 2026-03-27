@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 3.9,
+  "career_angle": "If you want to review for top ML venues, build a visible publication trail on OpenReview/arXiv and volunteer through the official CFR (Call for Reviewers) forms that NeurIPS posts annually. Having a senior researcher nominate you carries more weight than cold-applying.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Anonymous Reddit user, but the scenario described (unqualified PhD students getting reviewer invites) is widely corroborated in the ML community",
+      "score": 6.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Anecdotal single data point -- 'my labmate got invited' -- but the underlying phenomenon of reviewer quality issues at top venues is well-documented",
+      "score": 5.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "The reviewer selection process is verifiable -- NeurIPS publishes reviewer guidelines and has official volunteer channels",
+      "score": 7.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "No commercial angle or self-promotion -- genuine academic curiosity with no obvious ulterior motive",
+      "score": 8.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "Broad consensus in ML community that reviewer selection is inconsistent and often results in underqualified reviewers -- this is a known systemic issue",
+      "score": 7.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Vague on details -- no specifics about the PhD student's actual qualifications, which journal publications they had, or what the invite email said",
+      "score": 4.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "Anonymous poster with no verifiable track record, though the post style is consistent with genuine academic community discussion",
+      "score": 5.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
